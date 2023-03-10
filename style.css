@@ -1,0 +1,36 @@
+/* .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 40%;
+    width: 40%;
+    margin-top: 30%;
+    margin-bottom: 30%;
+  } */
+
+
+.center {
+    border-radius: 50%;
+    width: 100px;
+}
+
+.title-container{
+    font-weight: 500;
+    color: tomato;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.about-title-container{
+    background-color: bisque;
+    display: inline-block;   
+    color: blue;
+    /* height: 100px;
+    vertical-align: top; */
+
+}
+
+.about-content-container{
+    font-weight: 500;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
